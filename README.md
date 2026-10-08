@@ -8,6 +8,7 @@
 - **In collaboration with:** Rambam Health Care Campus
 - **Project page:** [SIPL project 10366-2-26](https://sipl.ece.technion.ac.il/projects/project-details/?prj_id=11393)
 - **Poster:** [docs/poster.pdf](docs/poster.pdf) ([image on the lab site](https://sipl.ece.technion.ac.il/wp-content/uploads/2026/03/Poster10366-scaled.png))
+- **Project video:** [Watch on Google Drive](https://drive.google.com/file/d/17X1zFp9TekEeZZt_sVo5Ec6zyDoj53L3/view)
 
 ## Overview
 
