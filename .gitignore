@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pt
+*.pth
+*.npy
+outputs/
+project_0_datasets/
+images_512/
+density_maps/
+attention_masks/
+.ipynb_checkpoints/

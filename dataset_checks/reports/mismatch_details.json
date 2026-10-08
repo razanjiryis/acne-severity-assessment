@@ -1,0 +1,4562 @@
+[
+    {
+        "filename": "levle3_33.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 56,
+                "xml_count": 56,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 62,
+                "xml_count": 56,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 64,
+                "xml_count": 56,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 58,
+                "xml_count": 56,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 62,
+                "xml_count": 56,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_80.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 57,
+                "xml_count": 57,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 60,
+                "xml_count": 57,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 55,
+                "xml_count": 57,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 52,
+                "xml_count": 57,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 58,
+                "xml_count": 57,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_124.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 57,
+                "xml_count": 57,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 60,
+                "xml_count": 57,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 64,
+                "xml_count": 57,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 62,
+                "xml_count": 57,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 64,
+                "xml_count": 57,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_36.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 52,
+                "xml_count": 52,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 65,
+                "xml_count": 52,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 63,
+                "xml_count": 52,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 56,
+                "xml_count": 52,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 64,
+                "xml_count": 52,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_60.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 65,
+                "xml_count": 65,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 64,
+                "xml_count": 65,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 56,
+                "xml_count": 65,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 55,
+                "xml_count": 65,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 51,
+                "xml_count": 65,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_57.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 59,
+                "xml_count": 59,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 54,
+                "xml_count": 59,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 59,
+                "xml_count": 59,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 56,
+                "xml_count": 59,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 64,
+                "xml_count": 59,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_11.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 57,
+                "xml_count": 57,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 58,
+                "xml_count": 57,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 59,
+                "xml_count": 57,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 51,
+                "xml_count": 57,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 65,
+                "xml_count": 57,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_10.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 65,
+                "xml_count": 65,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 58,
+                "xml_count": 65,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 60,
+                "xml_count": 65,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 53,
+                "xml_count": 65,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 65,
+                "xml_count": 65,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_111.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 62,
+                "xml_count": 62,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 52,
+                "xml_count": 62,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 56,
+                "xml_count": 62,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 58,
+                "xml_count": 62,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 57,
+                "xml_count": 62,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_53.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 59,
+                "xml_count": 59,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 58,
+                "xml_count": 59,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 53,
+                "xml_count": 59,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 52,
+                "xml_count": 59,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 56,
+                "xml_count": 59,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_46.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 58,
+                "xml_count": 58,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 58,
+                "xml_count": 58,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 59,
+                "xml_count": 58,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 55,
+                "xml_count": 58,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 63,
+                "xml_count": 58,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_28.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 62,
+                "xml_count": 62,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 55,
+                "xml_count": 62,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 54,
+                "xml_count": 62,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 65,
+                "xml_count": 62,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 60,
+                "xml_count": 62,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_85.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 59,
+                "xml_count": 59,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 57,
+                "xml_count": 59,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 59,
+                "xml_count": 59,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 61,
+                "xml_count": 59,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 57,
+                "xml_count": 59,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_24.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 52,
+                "xml_count": 52,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 65,
+                "xml_count": 52,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 58,
+                "xml_count": 52,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 65,
+                "xml_count": 52,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 56,
+                "xml_count": 52,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_44.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 53,
+                "xml_count": 53,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 55,
+                "xml_count": 53,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 62,
+                "xml_count": 53,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 58,
+                "xml_count": 53,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 60,
+                "xml_count": 53,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_144.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 58,
+                "xml_count": 58,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 54,
+                "xml_count": 58,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 57,
+                "xml_count": 58,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 65,
+                "xml_count": 58,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 62,
+                "xml_count": 58,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_14.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 55,
+                "xml_count": 55,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 65,
+                "xml_count": 55,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 61,
+                "xml_count": 55,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 53,
+                "xml_count": 55,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 63,
+                "xml_count": 55,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_97.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 64,
+                "xml_count": 64,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 63,
+                "xml_count": 64,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 55,
+                "xml_count": 64,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 61,
+                "xml_count": 64,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 61,
+                "xml_count": 64,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_88.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 64,
+                "xml_count": 64,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 65,
+                "xml_count": 64,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 53,
+                "xml_count": 64,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 52,
+                "xml_count": 64,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 53,
+                "xml_count": 64,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_68.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 56,
+                "xml_count": 56,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 63,
+                "xml_count": 56,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 54,
+                "xml_count": 56,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 65,
+                "xml_count": 56,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 58,
+                "xml_count": 56,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_16.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 65,
+                "xml_count": 65,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 51,
+                "xml_count": 65,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 60,
+                "xml_count": 65,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 55,
+                "xml_count": 65,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 56,
+                "xml_count": 65,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_100.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 58,
+                "xml_count": 58,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 56,
+                "xml_count": 58,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 57,
+                "xml_count": 58,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 55,
+                "xml_count": 58,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 54,
+                "xml_count": 58,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_110.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 59,
+                "xml_count": 64,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 62,
+                "xml_count": 64,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 64,
+                "xml_count": 64,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 64,
+                "xml_count": 64,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 63,
+                "xml_count": 64,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_78.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 65,
+                "xml_count": 64,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 55,
+                "xml_count": 64,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 51,
+                "xml_count": 64,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 64,
+                "xml_count": 64,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 65,
+                "xml_count": 64,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_18.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 59,
+                "xml_count": 55,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 62,
+                "xml_count": 55,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 56,
+                "xml_count": 55,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 55,
+                "xml_count": 55,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 61,
+                "xml_count": 55,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_94.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 53,
+                "xml_count": 58,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 65,
+                "xml_count": 58,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 62,
+                "xml_count": 58,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 58,
+                "xml_count": 58,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 57,
+                "xml_count": 58,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_55.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 60,
+                "xml_count": 64,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 54,
+                "xml_count": 64,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 51,
+                "xml_count": 64,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 64,
+                "xml_count": 64,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 64,
+                "xml_count": 64,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_117.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 52,
+                "xml_count": 51,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 56,
+                "xml_count": 51,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 52,
+                "xml_count": 51,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 51,
+                "xml_count": 51,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 51,
+                "xml_count": 51,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_92.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 56,
+                "xml_count": 63,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 57,
+                "xml_count": 63,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 55,
+                "xml_count": 63,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 63,
+                "xml_count": 63,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 51,
+                "xml_count": 63,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_143.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 53,
+                "xml_count": 59,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 64,
+                "xml_count": 59,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 51,
+                "xml_count": 59,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 59,
+                "xml_count": 59,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 53,
+                "xml_count": 59,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_8.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 65,
+                "xml_count": 54,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 63,
+                "xml_count": 54,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 62,
+                "xml_count": 54,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 54,
+                "xml_count": 54,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 57,
+                "xml_count": 54,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_47.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 51,
+                "xml_count": 62,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 55,
+                "xml_count": 62,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 51,
+                "xml_count": 62,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 62,
+                "xml_count": 62,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 53,
+                "xml_count": 62,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_58.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 64,
+                "xml_count": 62,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 56,
+                "xml_count": 62,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 53,
+                "xml_count": 62,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 62,
+                "xml_count": 62,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 61,
+                "xml_count": 62,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_130.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 53,
+                "xml_count": 53,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 58,
+                "xml_count": 53,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 61,
+                "xml_count": 53,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 53,
+                "xml_count": 53,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 56,
+                "xml_count": 53,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_131.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 51,
+                "xml_count": 54,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 51,
+                "xml_count": 54,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 64,
+                "xml_count": 54,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 54,
+                "xml_count": 54,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 58,
+                "xml_count": 54,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_79.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 64,
+                "xml_count": 59,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 51,
+                "xml_count": 59,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 62,
+                "xml_count": 59,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 59,
+                "xml_count": 59,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 60,
+                "xml_count": 59,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_96.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 59,
+                "xml_count": 57,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 57,
+                "xml_count": 57,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 53,
+                "xml_count": 57,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 57,
+                "xml_count": 57,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 55,
+                "xml_count": 57,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_49.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 58,
+                "xml_count": 59,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 57,
+                "xml_count": 59,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 63,
+                "xml_count": 59,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 59,
+                "xml_count": 59,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 55,
+                "xml_count": 59,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_29.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 51,
+                "xml_count": 53,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 63,
+                "xml_count": 53,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 55,
+                "xml_count": 53,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 53,
+                "xml_count": 53,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 61,
+                "xml_count": 53,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_5.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 61,
+                "xml_count": 58,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 53,
+                "xml_count": 58,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 63,
+                "xml_count": 58,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 58,
+                "xml_count": 58,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 61,
+                "xml_count": 58,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_76.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 56,
+                "xml_count": 52,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 57,
+                "xml_count": 52,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 65,
+                "xml_count": 52,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 52,
+                "xml_count": 52,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 59,
+                "xml_count": 52,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_113.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 64,
+                "xml_count": 64,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 53,
+                "xml_count": 64,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 61,
+                "xml_count": 64,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 64,
+                "xml_count": 64,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 60,
+                "xml_count": 64,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_30.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 53,
+                "xml_count": 54,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 64,
+                "xml_count": 54,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 53,
+                "xml_count": 54,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 54,
+                "xml_count": 54,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 51,
+                "xml_count": 54,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_136.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 53,
+                "xml_count": 51,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 65,
+                "xml_count": 51,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 57,
+                "xml_count": 51,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 51,
+                "xml_count": 51,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 51,
+                "xml_count": 51,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_65.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 65,
+                "xml_count": 65,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 62,
+                "xml_count": 65,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 65,
+                "xml_count": 65,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 62,
+                "xml_count": 65,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 65,
+                "xml_count": 65,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_86.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 61,
+                "xml_count": 53,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 53,
+                "xml_count": 53,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 52,
+                "xml_count": 53,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 56,
+                "xml_count": 53,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 53,
+                "xml_count": 53,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_17.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 60,
+                "xml_count": 65,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 62,
+                "xml_count": 65,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 54,
+                "xml_count": 65,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 62,
+                "xml_count": 65,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 65,
+                "xml_count": 65,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_82.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 52,
+                "xml_count": 65,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 53,
+                "xml_count": 65,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 58,
+                "xml_count": 65,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 55,
+                "xml_count": 65,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 65,
+                "xml_count": 65,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_120.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 63,
+                "xml_count": 63,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 58,
+                "xml_count": 63,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 62,
+                "xml_count": 63,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 55,
+                "xml_count": 63,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 63,
+                "xml_count": 63,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_71.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 54,
+                "xml_count": 55,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 61,
+                "xml_count": 55,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 60,
+                "xml_count": 55,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 60,
+                "xml_count": 55,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 55,
+                "xml_count": 55,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_72.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 63,
+                "xml_count": 56,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 52,
+                "xml_count": 56,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 52,
+                "xml_count": 56,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 53,
+                "xml_count": 56,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 56,
+                "xml_count": 56,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_118.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 62,
+                "xml_count": 65,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 55,
+                "xml_count": 65,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 60,
+                "xml_count": 65,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 53,
+                "xml_count": 65,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 65,
+                "xml_count": 65,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_62.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 57,
+                "xml_count": 57,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 56,
+                "xml_count": 57,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 52,
+                "xml_count": 57,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 53,
+                "xml_count": 57,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 57,
+                "xml_count": 57,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_127.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 54,
+                "xml_count": 63,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 55,
+                "xml_count": 63,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 52,
+                "xml_count": 63,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 58,
+                "xml_count": 63,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 63,
+                "xml_count": 63,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_91.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 63,
+                "xml_count": 56,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 58,
+                "xml_count": 56,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 52,
+                "xml_count": 56,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 58,
+                "xml_count": 56,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 56,
+                "xml_count": 56,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_84.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 55,
+                "xml_count": 63,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 64,
+                "xml_count": 63,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 54,
+                "xml_count": 63,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 63,
+                "xml_count": 63,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 63,
+                "xml_count": 63,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_141.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 59,
+                "xml_count": 63,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 60,
+                "xml_count": 63,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 52,
+                "xml_count": 63,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 53,
+                "xml_count": 63,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 63,
+                "xml_count": 63,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_140.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 60,
+                "xml_count": 54,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 56,
+                "xml_count": 54,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 54,
+                "xml_count": 54,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 52,
+                "xml_count": 54,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 54,
+                "xml_count": 54,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_50.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 52,
+                "xml_count": 52,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 64,
+                "xml_count": 52,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 61,
+                "xml_count": 52,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 63,
+                "xml_count": 52,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 52,
+                "xml_count": 52,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_103.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 61,
+                "xml_count": 58,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 60,
+                "xml_count": 58,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 53,
+                "xml_count": 58,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 58,
+                "xml_count": 58,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 58,
+                "xml_count": 58,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_101.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 56,
+                "xml_count": 56,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 65,
+                "xml_count": 56,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 60,
+                "xml_count": 56,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 64,
+                "xml_count": 56,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 56,
+                "xml_count": 56,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_4.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 65,
+                "xml_count": 61,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 62,
+                "xml_count": 61,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 52,
+                "xml_count": 61,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 57,
+                "xml_count": 61,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 61,
+                "xml_count": 61,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_48.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 62,
+                "xml_count": 61,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 65,
+                "xml_count": 61,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 57,
+                "xml_count": 61,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 58,
+                "xml_count": 61,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 61,
+                "xml_count": 61,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_12.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 59,
+                "xml_count": 59,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 53,
+                "xml_count": 59,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 62,
+                "xml_count": 59,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 58,
+                "xml_count": 59,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 59,
+                "xml_count": 59,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_26.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 55,
+                "xml_count": 62,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 52,
+                "xml_count": 62,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 58,
+                "xml_count": 62,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 60,
+                "xml_count": 62,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 62,
+                "xml_count": 62,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_87.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 56,
+                "xml_count": 55,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 52,
+                "xml_count": 55,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 51,
+                "xml_count": 55,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 55,
+                "xml_count": 55,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 55,
+                "xml_count": 55,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_19.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 57,
+                "xml_count": 56,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 63,
+                "xml_count": 56,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 63,
+                "xml_count": 56,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 52,
+                "xml_count": 56,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 56,
+                "xml_count": 56,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_9.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 65,
+                "xml_count": 51,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 65,
+                "xml_count": 51,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 62,
+                "xml_count": 51,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 56,
+                "xml_count": 51,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 51,
+                "xml_count": 51,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_13.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 54,
+                "xml_count": 54,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 53,
+                "xml_count": 54,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 60,
+                "xml_count": 54,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 52,
+                "xml_count": 54,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 54,
+                "xml_count": 54,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_7.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 52,
+                "xml_count": 58,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 61,
+                "xml_count": 58,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 54,
+                "xml_count": 58,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 58,
+                "xml_count": 58,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 57,
+                "xml_count": 58,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_122.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 57,
+                "xml_count": 61,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 62,
+                "xml_count": 61,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 54,
+                "xml_count": 61,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 61,
+                "xml_count": 61,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 59,
+                "xml_count": 61,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_45.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 53,
+                "xml_count": 57,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 53,
+                "xml_count": 57,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 62,
+                "xml_count": 57,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 57,
+                "xml_count": 57,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 56,
+                "xml_count": 57,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_40.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 52,
+                "xml_count": 51,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 59,
+                "xml_count": 51,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 53,
+                "xml_count": 51,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 51,
+                "xml_count": 51,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 55,
+                "xml_count": 51,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_107.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 51,
+                "xml_count": 53,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 63,
+                "xml_count": 53,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 53,
+                "xml_count": 53,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 53,
+                "xml_count": 53,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 63,
+                "xml_count": 53,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_77.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 54,
+                "xml_count": 63,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 63,
+                "xml_count": 63,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 62,
+                "xml_count": 63,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 63,
+                "xml_count": 63,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 58,
+                "xml_count": 63,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_31.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 51,
+                "xml_count": 53,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 64,
+                "xml_count": 53,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 59,
+                "xml_count": 53,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 53,
+                "xml_count": 53,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 57,
+                "xml_count": 53,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_81.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 56,
+                "xml_count": 52,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 61,
+                "xml_count": 52,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 54,
+                "xml_count": 52,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 52,
+                "xml_count": 52,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 62,
+                "xml_count": 52,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_52.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 52,
+                "xml_count": 52,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 61,
+                "xml_count": 52,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 55,
+                "xml_count": 52,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 52,
+                "xml_count": 52,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 55,
+                "xml_count": 52,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_114.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 51,
+                "xml_count": 52,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 56,
+                "xml_count": 52,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 61,
+                "xml_count": 52,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 52,
+                "xml_count": 52,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 58,
+                "xml_count": 52,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_42.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 60,
+                "xml_count": 59,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 53,
+                "xml_count": 59,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 62,
+                "xml_count": 59,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 59,
+                "xml_count": 59,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 56,
+                "xml_count": 59,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_119.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 61,
+                "xml_count": 64,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 51,
+                "xml_count": 64,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 57,
+                "xml_count": 64,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 64,
+                "xml_count": 64,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 63,
+                "xml_count": 64,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_6.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 60,
+                "xml_count": 65,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 53,
+                "xml_count": 65,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 52,
+                "xml_count": 65,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 65,
+                "xml_count": 65,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 62,
+                "xml_count": 65,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_108.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 51,
+                "xml_count": 56,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 55,
+                "xml_count": 56,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 56,
+                "xml_count": 56,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 56,
+                "xml_count": 56,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 63,
+                "xml_count": 56,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_95.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 65,
+                "xml_count": 58,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 59,
+                "xml_count": 58,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 60,
+                "xml_count": 58,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 58,
+                "xml_count": 58,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 51,
+                "xml_count": 58,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_23.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 54,
+                "xml_count": 64,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 63,
+                "xml_count": 64,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 58,
+                "xml_count": 64,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 64,
+                "xml_count": 64,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 56,
+                "xml_count": 64,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_128.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 61,
+                "xml_count": 54,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 61,
+                "xml_count": 54,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 63,
+                "xml_count": 54,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 54,
+                "xml_count": 54,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 60,
+                "xml_count": 54,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_129.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 62,
+                "xml_count": 61,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 54,
+                "xml_count": 61,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 52,
+                "xml_count": 61,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 61,
+                "xml_count": 61,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 62,
+                "xml_count": 61,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_3.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 59,
+                "xml_count": 58,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 59,
+                "xml_count": 58,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 59,
+                "xml_count": 58,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 58,
+                "xml_count": 58,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 52,
+                "xml_count": 58,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_22.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 57,
+                "xml_count": 65,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 59,
+                "xml_count": 65,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 60,
+                "xml_count": 65,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 65,
+                "xml_count": 65,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 53,
+                "xml_count": 65,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_142.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 55,
+                "xml_count": 61,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_test_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 53,
+                "xml_count": 61,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 60,
+                "xml_count": 61,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 61,
+                "xml_count": 61,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 59,
+                "xml_count": 61,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_67.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 57,
+                "xml_count": 52,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 52,
+                "xml_count": 52,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 62,
+                "xml_count": 52,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 52,
+                "xml_count": 52,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 56,
+                "xml_count": 52,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_59.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 53,
+                "xml_count": 59,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 65,
+                "xml_count": 59,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 54,
+                "xml_count": 59,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 59,
+                "xml_count": 59,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 59,
+                "xml_count": 59,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_2.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 59,
+                "xml_count": 65,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 52,
+                "xml_count": 65,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 63,
+                "xml_count": 65,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 65,
+                "xml_count": 65,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 55,
+                "xml_count": 65,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_43.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 65,
+                "xml_count": 61,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 63,
+                "xml_count": 61,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 58,
+                "xml_count": 61,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 61,
+                "xml_count": 61,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 64,
+                "xml_count": 61,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_132.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 62,
+                "xml_count": 54,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 55,
+                "xml_count": 54,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 51,
+                "xml_count": 54,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 54,
+                "xml_count": 54,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 54,
+                "xml_count": 54,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_133.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 65,
+                "xml_count": 62,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 65,
+                "xml_count": 62,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 61,
+                "xml_count": 62,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 62,
+                "xml_count": 62,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 52,
+                "xml_count": 62,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_89.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 63,
+                "xml_count": 60,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 60,
+                "xml_count": 60,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 64,
+                "xml_count": 60,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 60,
+                "xml_count": 60,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 62,
+                "xml_count": 60,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_106.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 56,
+                "xml_count": 56,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 51,
+                "xml_count": 56,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 58,
+                "xml_count": 56,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 56,
+                "xml_count": 56,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 51,
+                "xml_count": 56,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_123.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 59,
+                "xml_count": 55,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 54,
+                "xml_count": 55,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 53,
+                "xml_count": 55,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 55,
+                "xml_count": 55,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 60,
+                "xml_count": 55,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_41.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 64,
+                "xml_count": 61,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 65,
+                "xml_count": 61,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 65,
+                "xml_count": 61,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 61,
+                "xml_count": 61,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 53,
+                "xml_count": 61,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_105.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 57,
+                "xml_count": 52,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 63,
+                "xml_count": 52,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 56,
+                "xml_count": 52,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 52,
+                "xml_count": 52,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 52,
+                "xml_count": 52,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_61.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 53,
+                "xml_count": 57,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 59,
+                "xml_count": 57,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 58,
+                "xml_count": 57,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 57,
+                "xml_count": 57,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 52,
+                "xml_count": 57,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_73.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 63,
+                "xml_count": 51,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 63,
+                "xml_count": 51,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 58,
+                "xml_count": 51,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 51,
+                "xml_count": 51,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 65,
+                "xml_count": 51,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_51.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 63,
+                "xml_count": 53,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 54,
+                "xml_count": 53,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 64,
+                "xml_count": 53,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 53,
+                "xml_count": 53,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 59,
+                "xml_count": 53,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_63.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 62,
+                "xml_count": 64,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 57,
+                "xml_count": 64,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 65,
+                "xml_count": 64,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 64,
+                "xml_count": 64,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 61,
+                "xml_count": 64,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_75.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 56,
+                "xml_count": 60,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 57,
+                "xml_count": 60,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 51,
+                "xml_count": 60,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 60,
+                "xml_count": 60,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 61,
+                "xml_count": 60,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_145.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 52,
+                "xml_count": 55,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 52,
+                "xml_count": 55,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 53,
+                "xml_count": 55,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 55,
+                "xml_count": 55,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 51,
+                "xml_count": 55,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_74.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 55,
+                "xml_count": 51,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 58,
+                "xml_count": 51,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 59,
+                "xml_count": 51,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 51,
+                "xml_count": 51,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 52,
+                "xml_count": 51,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_116.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 54,
+                "xml_count": 63,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 56,
+                "xml_count": 63,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 52,
+                "xml_count": 63,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 63,
+                "xml_count": 63,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 57,
+                "xml_count": 63,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_34.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 57,
+                "xml_count": 65,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 61,
+                "xml_count": 65,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 63,
+                "xml_count": 65,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 65,
+                "xml_count": 65,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 57,
+                "xml_count": 65,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_102.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 59,
+                "xml_count": 65,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 61,
+                "xml_count": 65,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 55,
+                "xml_count": 65,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 65,
+                "xml_count": 65,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 57,
+                "xml_count": 65,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_115.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 65,
+                "xml_count": 65,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 57,
+                "xml_count": 65,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 52,
+                "xml_count": 65,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 65,
+                "xml_count": 65,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 63,
+                "xml_count": 65,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_121.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 56,
+                "xml_count": 53,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 62,
+                "xml_count": 53,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 60,
+                "xml_count": 53,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 53,
+                "xml_count": 53,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 65,
+                "xml_count": 53,
+                "img_found": true
+            }
+        ]
+    },
+    {
+        "filename": "levle3_70.jpg",
+        "data": [
+            {
+                "split_file": "NNEW_test_4.txt",
+                "clinical_severity": 3,
+                "doctor_count": 60,
+                "xml_count": 62,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_1.txt",
+                "clinical_severity": 3,
+                "doctor_count": 51,
+                "xml_count": 62,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_3.txt",
+                "clinical_severity": 3,
+                "doctor_count": 51,
+                "xml_count": 62,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_0.txt",
+                "clinical_severity": 3,
+                "doctor_count": 62,
+                "xml_count": 62,
+                "img_found": true
+            },
+            {
+                "split_file": "NNEW_trainval_2.txt",
+                "clinical_severity": 3,
+                "doctor_count": 60,
+                "xml_count": 62,
+                "img_found": true
+            }
+        ]
+    }
+]
